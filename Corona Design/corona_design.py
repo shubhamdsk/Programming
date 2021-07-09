@@ -1,6 +1,6 @@
 import turtle
 
-t=turtle.Turtle() #Creating turtle screen 
+t=turtle.Turtle() 
 s = turtle.Screen() # Creating turtle screen
 s.bgcolor("black") # we can modify the background color of the screen
 t.pencolor("green") # Change the pen color
