@@ -1,0 +1,22 @@
+All this programs are run on jupyter notebook.
+
+so if you want to run and see the programs in your pc.
+
+You have to clone this repo in your pc and after this you have to open  jupyter notebook in this folder.
+
+python should be install in your pc...
+
+How to install jupyter notebbok in Windows as :
+1 .Open cmd and type the command as
+
+2.pip install notebook
+
+How to open notebook :
+
+jupyter notebook	
+
+OR
+
+python -m notebook.
+
+After opening notebook in pc you can see the programs and if you want to run this program in notebbok just click on new button(in upper right corner) and select python.
