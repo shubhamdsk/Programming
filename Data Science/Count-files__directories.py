@@ -1,4 +1,5 @@
-# Count number of files and directories.
+# 
+
 import os
 PATH = 'C:\\Users\\shubham Deshmukh\\Desktop\\College\\Python\\Programming\\Data Science'
 fileCount = 0 
